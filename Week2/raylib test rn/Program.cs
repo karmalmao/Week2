@@ -1,7 +1,7 @@
 ﻿using System;
 using Raylib_cs;
 
-
+    
 namespace raylib_test_rn
 {
     class Program
@@ -19,6 +19,16 @@ namespace raylib_test_rn
                 Raylib.EndDrawing();
 
             }
+        }
+        void LoadGame()
+        {
+
+        }
+
+        void Update() //update every frame
+        {
+            if (Raylib.IsKeyPressed(KeyboardKey.KEY_LEFT)) ;
+
         }
     }
 }

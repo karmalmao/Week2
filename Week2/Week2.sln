@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNextTo", "InsertNextT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raylib test rn", "raylib test rn\raylib test rn.csproj", "{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tetris", "tetris\tetris.csproj", "{62323B25-48C5-468F-9E6E-919CE2DAD4BA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{62323B25-48C5-468F-9E6E-919CE2DAD4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62323B25-48C5-468F-9E6E-919CE2DAD4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62323B25-48C5-468F-9E6E-919CE2DAD4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62323B25-48C5-468F-9E6E-919CE2DAD4BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
