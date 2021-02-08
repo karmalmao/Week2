@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays1", "Arrays1\Arrays1.csproj", "{2258D0A3-B022-4279-BA1B-E3D223B2B5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays2", "Arrays2\Arrays2.csproj", "{A7D36792-B1CD-454A-8972-FA7D713CD6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAverage", "CalculateAverage\CalculateAverage.csproj", "{11938ACE-315A-48F6-8025-9C7111EE00C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{13285E75-A595-474B-A40C-EEE84F1FFE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNextTo", "InsertNextTo\InsertNextTo.csproj", "{2C4A19B4-7D18-485E-91F6-F0BB00B5A6DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raylib test rn", "raylib test rn\raylib test rn.csproj", "{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tetris", "tetris\tetris.csproj", "{62323B25-48C5-468F-9E6E-919CE2DAD4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2258D0A3-B022-4279-BA1B-E3D223B2B5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2258D0A3-B022-4279-BA1B-E3D223B2B5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2258D0A3-B022-4279-BA1B-E3D223B2B5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2258D0A3-B022-4279-BA1B-E3D223B2B5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D36792-B1CD-454A-8972-FA7D713CD6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D36792-B1CD-454A-8972-FA7D713CD6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D36792-B1CD-454A-8972-FA7D713CD6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D36792-B1CD-454A-8972-FA7D713CD6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11938ACE-315A-48F6-8025-9C7111EE00C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11938ACE-315A-48F6-8025-9C7111EE00C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11938ACE-315A-48F6-8025-9C7111EE00C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11938ACE-315A-48F6-8025-9C7111EE00C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13285E75-A595-474B-A40C-EEE84F1FFE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13285E75-A595-474B-A40C-EEE84F1FFE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13285E75-A595-474B-A40C-EEE84F1FFE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13285E75-A595-474B-A40C-EEE84F1FFE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4A19B4-7D18-485E-91F6-F0BB00B5A6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4A19B4-7D18-485E-91F6-F0BB00B5A6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4A19B4-7D18-485E-91F6-F0BB00B5A6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4A19B4-7D18-485E-91F6-F0BB00B5A6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62323B25-48C5-468F-9E6E-919CE2DAD4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62323B25-48C5-468F-9E6E-919CE2DAD4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62323B25-48C5-468F-9E6E-919CE2DAD4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62323B25-48C5-468F-9E6E-919CE2DAD4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7021AAF6-D11F-48F1-BD06-CFA6F81C0533}
+	EndGlobalSection
+EndGlobal
