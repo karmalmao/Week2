@@ -7,6 +7,7 @@ namespace InsertNextTo
         public static string[] InsertWorld(string[] a)
         {
             int[] terms = new int[400];
+            return null;
         }
         static void Main(string[] args)
         {

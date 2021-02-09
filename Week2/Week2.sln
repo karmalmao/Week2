@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays1", "Arrays1\Arrays1.csproj", "{2258D0A3-B022-4279-BA1B-E3D223B2B5FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays1", "Arrays1\Arrays1.csproj", "{2258D0A3-B022-4279-BA1B-E3D223B2B5FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays2", "Arrays2\Arrays2.csproj", "{A7D36792-B1CD-454A-8972-FA7D713CD6AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays2", "Arrays2\Arrays2.csproj", "{A7D36792-B1CD-454A-8972-FA7D713CD6AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAverage", "CalculateAverage\CalculateAverage.csproj", "{11938ACE-315A-48F6-8025-9C7111EE00C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateAverage", "CalculateAverage\CalculateAverage.csproj", "{11938ACE-315A-48F6-8025-9C7111EE00C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{13285E75-A595-474B-A40C-EEE84F1FFE39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{13285E75-A595-474B-A40C-EEE84F1FFE39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNextTo", "InsertNextTo\InsertNextTo.csproj", "{2C4A19B4-7D18-485E-91F6-F0BB00B5A6DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertNextTo", "InsertNextTo\InsertNextTo.csproj", "{2C4A19B4-7D18-485E-91F6-F0BB00B5A6DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raylib test rn", "raylib test rn\raylib test rn.csproj", "{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "raylib test rn", "raylib test rn\raylib test rn.csproj", "{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asteroids", "asteroids\asteroids.csproj", "{5D821D39-522F-43BD-BCF4-86732E326C50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BAE20AB-9D40-4CD7-9C65-320FB7C3C04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D821D39-522F-43BD-BCF4-86732E326C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D821D39-522F-43BD-BCF4-86732E326C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D821D39-522F-43BD-BCF4-86732E326C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D821D39-522F-43BD-BCF4-86732E326C50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
