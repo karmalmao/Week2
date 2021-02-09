@@ -32,15 +32,9 @@ namespace asteroids
                 program.SpawnBullet(pos, GetFacingDirection());
             }
             if (Raylib.IsKeyDown(KeyboardKey.KEY_LEFT) || Raylib.IsKeyDown(KeyboardKey.KEY_A))
-            {
-                rotation -= rotationSpeed;
-                rotation = rotation * Raylib.GetFrameTime();
-            }
+                rotation -= rotationSpeed;           
             if (Raylib.IsKeyDown(KeyboardKey.KEY_RIGHT) || Raylib.IsKeyDown(KeyboardKey.KEY_D))
-            {
-                rotation += rotationSpeed;
-                rotation = rotation * Raylib.GetFrameTime();
-            }
+            rotation = rotationSpeed;
             if (Raylib.IsKeyDown(KeyboardKey.KEY_R))
             {
                 pos = new Vector2(program.windowWidth / 2,program.windowHeight / 2);
